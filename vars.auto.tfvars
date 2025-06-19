@@ -4,7 +4,7 @@ console_url  = "console.ves.volterra.io"
 tenant       = "f5-emea-ent"
 namespace    = "a-forseth"
 
-# Project Details
+# Project Details 
 prefix         = "aforseth-azure-smsv2-ce-training"
 owner          = "aforseth"
 # home_ip_prefix sets the source IP allow rule for SSH access to the CEs. 
